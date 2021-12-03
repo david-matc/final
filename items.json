@@ -1,21 +1,21 @@
 {
   "items": [
   {
-    "name": "orange",
+    "name": "orangeTr",
     "imgTag": "images/glass-of-orange-smoothie.jpg",
     "value": 4,
     "amount": 0,
     "subtotal": 0
   },
   {
-    "name": "blueberry",
+    "name": "blueberryTr",
     "imgTag": "images/glass-of-orange-smoothie.jpg",
     "value": 5,
     "amount": 0,
     "subtotal": 0
   },
   {
-    "name": "kiwiStrawberry",
+    "name": "kiwiStrawberryTr",
     "imgTag": "images/glass-of-orange-smoothie.jpg",
     "value": 3,
     "amount": 0,
