@@ -2,6 +2,7 @@
   "items": [
   {
     "name": "orangeTr",
+    "imgId": "orangeImg"
     "imgTag": "images/glass-of-orange-smoothie.jpg",
     "value": 4,
     "amount": 0,
@@ -9,6 +10,7 @@
   },
   {
     "name": "blueberryTr",
+    "imgId": "kiwiStrawImg"
     "imgTag": "images/glass-of-orange-smoothie.jpg",
     "value": 5,
     "amount": 0,
@@ -16,6 +18,7 @@
   },
   {
     "name": "kiwiStrawberryTr",
+    "imgId": "blueberryImg"
     "imgTag": "images/glass-of-orange-smoothie.jpg",
     "value": 3,
     "amount": 0,
