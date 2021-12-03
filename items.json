@@ -1,7 +1,8 @@
 {
   "items": [
   {
-    "name": "orangeTr",
+    "tableRowName": "orangeTr",
+    "name": "Orange",
     "imgId": "orangeImg",
     "imgTag": "images/glass-of-orange-smoothie.jpg",
     "value": 4,
@@ -9,7 +10,8 @@
     "subtotal": 0
   },
   {
-    "name": "blueberryTr",
+    "tableRowName": "blueberryTr",
+    "name": "Blueberry",
     "imgId": "kiwiStrawImg",
     "imgTag": "images/glass-of-orange-smoothie.jpg",
     "value": 5,
@@ -17,7 +19,8 @@
     "subtotal": 0
   },
   {
-    "name": "kiwiStrawberryTr",
+    "tableRowName": "kiwiStrawberryTr",
+    "name": "Kiwi Strawberry",
     "imgId": "blueberryImg",
     "imgTag": "images/glass-of-orange-smoothie.jpg",
     "value": 3,
