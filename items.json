@@ -12,8 +12,8 @@
   {
     "tableRowName": "blueberryTr",
     "name": "Blueberry",
-    "imgId": "kiwiStrawImg",
-    "imgTag": "images/glass-of-orange-smoothie.jpg",
+    "imgId": "blueberryImg",
+    "imgTag": "images\blueberry-smoothie.jpg",
     "value": 5,
     "amount": 0,
     "subtotal": 0
@@ -21,8 +21,8 @@
   {
     "tableRowName": "kiwiStrawberryTr",
     "name": "Kiwi Strawberry",
-    "imgId": "blueberryImg",
-    "imgTag": "images/glass-of-orange-smoothie.jpg",
+    "imgId": "kiwiStrawImg",
+    "imgTag": "images/Strawberry-Kiwi-Smoothie.jpg",
     "value": 3,
     "amount": 0,
     "subtotal": 0
