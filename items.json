@@ -5,27 +5,27 @@
     "name": "Orange",
     "imgId": "orangeImg",
     "imgTag": "images/glass-of-orange-smoothie.jpg",
-    "value": 4,
-    "amount": 0,
-    "subtotal": 0
+    "Price": 4,
+    "Quantity": 0,
+    "Subtotal": 0
   },
   {
     "tableRowName": "blueberryTr",
     "name": "Blueberry",
     "imgId": "blueberryImg",
-    "imgTag": "images/blueberry-Smoothie.jpg",
-    "value": 5,
-    "amount": 0,
-    "subtotal": 0
+    "imgTag": "images/blueberry-smoothie.jpg",
+    "Price": 5,
+    "Quantity": 0,
+    "Subtotal": 0
   },
   {
     "tableRowName": "kiwiStrawberryTr",
     "name": "Kiwi Strawberry",
     "imgId": "kiwiStrawImg",
     "imgTag": "images/Strawberry-Kiwi-Smoothie.jpg",
-    "value": 3,
-    "amount": 0,
-    "subtotal": 0
+    "Price": 3,
+    "Quantity": 0,
+    "Subtotal": 0
     }
   ]
 }
