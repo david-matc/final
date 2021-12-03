@@ -1,17 +1,25 @@
 {
-  "items": [{
+  "items": [
+  {
+    "name": "orange",
+    "imgTag": "images/glass-of-orange-smoothie.jpg",
     "value": 4,
     "amount": 0,
     "subtotal": 0
   },
   {
+    "name": "blueberry",
+    "imgTag": "images/glass-of-orange-smoothie.jpg",
     "value": 5,
     "amount": 0,
     "subtotal": 0
   },
   {
+    "name": "kiwiStrawberry",
+    "imgTag": "images/glass-of-orange-smoothie.jpg",
     "value": 3,
     "amount": 0,
     "subtotal": 0
-  }]
+    }
+  ]
 }
